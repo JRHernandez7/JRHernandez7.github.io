@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 Some day soon, this could be a fun game for us all to play!
 
-![Thumb-JRH](../assets/IMG_6621.jpg)
+![Thumb-JRH](https://JRHernandez7.github.io/assets/IMG_6621.jpg)
