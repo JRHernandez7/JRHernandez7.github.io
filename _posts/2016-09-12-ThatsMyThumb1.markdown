@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 Some day soon, this could be a fun game for us all to play!
 
-![My first Thumb]({{ site.url }}/assets/IMG_6621.jpg)
+![Thumb-JRH](/assets/IMG_6621.jpg)
