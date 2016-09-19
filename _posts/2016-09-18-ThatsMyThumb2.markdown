@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Where's Your Thumb?"
-date:   2016-09-12 11:41:04 -0400
+date:   2016-09-18 11:41:04 -0400
 categories: jekyll update
 ---
 This is the original test of skill and love...someone failed it...
